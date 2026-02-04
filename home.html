@@ -23,11 +23,11 @@
         <div class="menu">
           <nav>
             <ul>
-              <li class="active"><a href="#">HOME</a></li>
-              <li><a href="">ABOUT US</a></li>
-              <li><a href="">SERVICES</a></li>
-              <li><a href="">OUR PROJECTS</a></li>
-              <li><a href="">OUR TEAM</a></li>
+              <li class="active"><a href="#home">HOME</a></li>
+              <li><a href="#about">ABOUT US</a></li>
+              <li><a href="#services">SERVICES</a></li>
+              <li><a href="#projects">OUR PROJECTS</a></li>
+              <li><a href="#team">OUR TEAM</a></li>
               <li><a href="">HAPPY CLIENTS</a></li>
               <li><a href="">PRICE</a></li>
               <li><a href="">SOME FACTS</a></li>
@@ -39,7 +39,7 @@
     </header>
 
     <main>
-      <section class="banner">
+      <section class="banner" id="home">
         <div class="sliders">
           <div class="slide">
             <div class="slidearea">
@@ -58,7 +58,7 @@
         </div>
       </section>
       <!--AboutUs Section-->
-      <section class="default light">
+      <section class="default light" id="about">
         <div class="section-title">Abaout Us</div>
         <div class="section-desc">who we are?</div>
         <div class="section-body">
@@ -88,7 +88,7 @@
       <!--End-->
 
       <!--Services Section-->
-      <section class="default dark">
+      <section class="default dark" id="services">
         <div class="section-title">Services</div>
         <div class="section-desc">Service that we provide</div>
         <div class="section-body">
@@ -119,7 +119,7 @@
       <!--End-->
 
       <!--Projects Section-->
-      <section class="default light">
+      <section class="default light" id="projects">
         <div class="section-title">Our projects</div>
         <div class="section-desc">what we create</div>
         <div class="section-body">
@@ -269,21 +269,42 @@
                 </div>
               </div>
             </div>
-            <a href="" class="button">More Projects</a>
+            <a href="#projects" class="button">More Projects</a>
           </div>
         </div>
       </section>
       <!--End-->
 
       <!--Team Section-->
-      <section class="default dark">
-        <div class="section-title">Our team</div>
-        <div class="section-desc">Our co-workers</div>
-        <div class="section-body"></div>
+      <section class="default dark bg-team" id="team">
+        <div class="section-team-area">
+          <div class="section-title">Our team</div>
+          <div class="section-desc">Our co-workers</div>
+          <div class="section-body">
+            <div class="section-team">
+              <div class="sliders">
+                <div class="slide">
+                  <div class="slidearea">...</div>
+                </div>
+                <div class="slide">
+                  <div class="slidearea">...</div>
+                </div>
+                <div class="slide">
+                  <div class="slidearea">...</div>
+                </div>
+              </div>
+            </div>
+            <div class="paginatorarea">
+              <div class="paginatoritem active"></div>
+              <div class="paginatoritem"></div>
+              <div class="paginatoritem"></div>
+            </div>
+          </div>
+        </div>
       </section>
       <!--End-->
     </main>
 
-    <footer>Apenas um teste</footer>
+    <footer></footer>
   </body>
 </html>
