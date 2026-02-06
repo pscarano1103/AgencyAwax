@@ -548,3 +548,38 @@ header {
 }
 
 /*---------------------------------------------------*/
+
+/*Companies Section*/
+
+.section-companies {
+  border-top: 1px solid #cfcfcf;
+  border-bottom: 1px solid #cfcfcf;
+}
+
+.section-companies .section-body {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.section-companies--area {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.section-company {
+  flex: 1;
+  text-align: center;
+}
+
+.section-company img {
+  transform: scale(1);
+  transition: all 0.4s ease-in-out;
+}
+
+.section-company img:hover {
+  transform: scale(1.25);
+}
+
+/*--------------------------------------*/
