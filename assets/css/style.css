@@ -10,6 +10,10 @@ body {
   overflow-x: hidden;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 header {
   height: 100px;
   background-color: #000;
@@ -353,6 +357,10 @@ header {
   display: flex;
 }
 
+/*------------------------------------------------------*/
+
+/*Section Our team*/
+
 .bg-team {
   background-image: url(../images/bg-team.jpg);
   background-size: cover;
@@ -392,7 +400,8 @@ header {
   height: 100%;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: #242424;
+  padding: 50px;
 }
 
 .section-team-area .paginatorarea {
@@ -416,3 +425,42 @@ header {
 .section-team-area .paginatoritem.active {
   background-color: #b88b58;
 }
+
+.section-team--avatar {
+  width: 180px;
+  height: auto;
+}
+
+.section-team--name {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.section-team--function {
+  font-size: 14px;
+}
+
+.section-team--social {
+  display: flex;
+  margin-top: 40px;
+}
+
+.section-team--social a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  background-color: #bdbdbd;
+  border-radius: 50%;
+  margin-right: 5px;
+  transition: all 0.2s ease-in;
+}
+
+.section-team--social a:hover {
+  background-color: #b88b58;
+}
+
+/*-----------------------------------------------*/

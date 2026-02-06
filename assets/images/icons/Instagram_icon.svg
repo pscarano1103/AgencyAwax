@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<defs>
+		<image  width="13" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOBAMAAAAGUYvhAAAAAXNSR0IB2cksfwAAACpQTFRF////////////////////////////////////////////////////////avtNLQAAAA50Uk5TcL//3xAAj59ggCBQQM9QURMuAAAAYUlEQVR4nGNkFGAAgveMSkCS8T0fmGYyOoVEsybMAYor8ycfsF34llEzU3iD7/d2IK28IPY5kJ4p0VDxPZxRU++0wFej44yaOjoTSq4cZ9SdDzIwmNHoA8h8PkafBhBdAgDe3xzfUBnmOgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Instagram icon" href="#img1" x="12" y="11"/>
+</svg>
