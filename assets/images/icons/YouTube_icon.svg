@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<defs>
+		<image  width="16" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMBAMAAACZySCyAAAAAXNSR0IB2cksfwAAACdQTFRF////////////////////////////////////////////////////Ubr9EgAAAA10Uk5TMN//AO8Qv0CAn1Bgr4WeXGoAAABNSURBVHicY2RUZACC/48YhQRADAZlRiUGljdANiuQwSbA9QDC4FY7CWUw5DdAGKqvHoAZwtcFwFJcZgdAuuDmsMiBaKZ+RmMXEOPfPgD/tQ6RKschzAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="YouTube icon" href="#img1" x="11" y="13"/>
+</svg>

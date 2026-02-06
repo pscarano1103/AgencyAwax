@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<defs>
+		<image  width="17" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAANCAMAAAB4p3UoAAAAAXNSR0IB2cksfwAAADNQTFRF////////////////////////////////////////////////////////////////////5RDoRwAAABF0Uk5TACAwYO//j1CAQL8Qn89wr9/6/DKxAAAAe0lEQVR4nEXO4Q6DIAwE4CuEgWJ8/9fcMoY6oCtlwf7ivvQAAlFDH0skZ74IobROS1F3LFJhbcJ2qoRGsAbgkNdD5QvS/hwuInu+Ae4jEs1xy/ISga+zxj51iecUK+s9UBwvY31qyt6ZpODfUKlllMI1NnsyD/lZ4/9dP9S4JyIJsFl9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Twitter icon" href="#img1" x="10" y="12"/>
+</svg>
