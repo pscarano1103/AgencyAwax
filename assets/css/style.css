@@ -848,6 +848,9 @@ footer {
 .section-share--legend img {
   margin-right: 10px;
 }
+.section-share--itens {
+  display: flex;
+}
 .section-share--item {
   font-size: 12px;
   margin-right: 20px;
